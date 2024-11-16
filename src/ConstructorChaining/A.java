@@ -6,4 +6,11 @@ public class A {
         {
 
     }
+    public void madeChanges()
+    {
+
+    }
+    int x1;
+    int y1;
+    int addedVariable;
 }
